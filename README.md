@@ -3,6 +3,6 @@ Deep residual network for steganalysis of digital images
 
 ## Train SRNet on your datasets
 
-change data_path in train.py
+1. Change data_path on lines 18-24 of train.py
 
-'''python train.py'''
+2. '''python train.py'''
